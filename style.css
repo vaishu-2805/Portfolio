@@ -717,8 +717,11 @@ h3 {
 
 /* /==========Footer==========/  */
 .footer {
+ height:100%;
+  width:100%;
     padding: 60px 0;
     background-color: #333;
+    
     /* Background color for footer */
     color: #fff;
     /* Text color */
